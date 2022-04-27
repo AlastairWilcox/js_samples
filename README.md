@@ -3,6 +3,9 @@ This is part of a client side search engine. It has been simplified and does not
 
 These modules read and tokenize a RSS feed, store it in memory and provide a simple search function. The search function uses binary logic to filter the final results.
 
+The code is a little antiquated and does not use ES6 language features.
+It was based on much older pre ES6 version.
+
 ## Search Types  
 * All - Return everything.
 * And - Return articles where all search terms match.
