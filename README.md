@@ -1,2 +1,2 @@
-# node_sample
-code snippet from node
+# js_samples
+code snippet from client side js
